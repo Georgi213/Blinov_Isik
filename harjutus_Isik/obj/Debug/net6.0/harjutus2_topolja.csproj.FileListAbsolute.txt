@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\bin\Debug\net6.0\harjutus2_topolja.exe
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\bin\Debug\net6.0\harjutus2_topolja.deps.json
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\bin\Debug\net6.0\harjutus2_topolja.runtimeconfig.json
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\bin\Debug\net6.0\harjutus2_topolja.dll
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\bin\Debug\net6.0\harjutus2_topolja.pdb
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus2_topolja.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus2_topolja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus2_topolja.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus2_topolja.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus2_topolja.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus2_topolja.dll
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\refint\harjutus2_topolja.dll
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus2_topolja.pdb
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus2_topolja.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\ref\harjutus2_topolja.dll

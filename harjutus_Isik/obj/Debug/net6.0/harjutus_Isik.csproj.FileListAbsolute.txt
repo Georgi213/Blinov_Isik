@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\bin\Debug\net6.0\harjutus_Isik.exe
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\bin\Debug\net6.0\harjutus_Isik.deps.json
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\bin\Debug\net6.0\harjutus_Isik.runtimeconfig.json
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\bin\Debug\net6.0\harjutus_Isik.dll
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\bin\Debug\net6.0\harjutus_Isik.pdb
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus_Isik.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus_Isik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus_Isik.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus_Isik.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus_Isik.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus_Isik.dll
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\refint\harjutus_Isik.dll
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus_Isik.pdb
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\harjutus_Isik.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Blinov_Tarpv20\harjutus2.0_topolja-master\harjutus2_topolja\obj\Debug\net6.0\ref\harjutus_Isik.dll
